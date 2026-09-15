@@ -8,13 +8,13 @@ A collection of notebooks and datasets for exploratory data analysis, feature pr
 
 | Directory | Focus | Included material |
 | --- | --- | --- |
-| `HR Analytics/` | HR data exploration and analysis | Notebook and `people.csv` |
-| `Netflix/` | Recommendation-oriented analysis | Notebook and movie data |
-| `Purchase Case Study/` | Purchase behavior analysis | Notebook and purchase data |
-| `Walmart Project/` | Sales analysis | Notebook and Walmart data |
-| `covid19/` | COVID-19 trend analysis | Notebook and CSV data |
-| `Pandas/` | Data manipulation practice | Two notebooks and tabular data |
-| `Numpy/` | Numerical-computing foundations | Notebook |
+| `hr-analytics/` | HR data exploration and analysis | Notebook and `people.csv` |
+| `netflix-recommendation-analysis/` | Recommendation-oriented analysis | Notebook and movie data |
+| `purchase-case-study/` | Purchase behavior analysis | Notebook and purchase data |
+| `walmart-sales-analysis/` | Sales analysis | Notebook and Walmart data |
+| `covid-19-analysis/` | COVID-19 trend analysis | Notebook and CSV data |
+| `pandas-data-analysis/` | Data manipulation practice | Two notebooks and tabular data |
+| `numpy-foundations/` | Numerical-computing foundations | Notebook |
 
 ## How To Explore
 
